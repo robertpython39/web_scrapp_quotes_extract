@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        Web scrapping
+# Purpose:     Web
+#
+# Author:      nicolescu
+#
+# Created:     8/12/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
 import requests
 from bs4 import BeautifulSoup
 
